@@ -1,4 +1,4 @@
-# Lecture 8 - CYBR 2980
+# Lecture 8 - CIST 1600
 
 FileIO
 ## Objectives
@@ -28,7 +28,7 @@ print(os.getcwd())
 ```
 
 This can be appended to the file name for the full file path if needed.
- 
+
 ### Reading from a file
 ```
 myFile = open("qbdata.txt", 'r')
